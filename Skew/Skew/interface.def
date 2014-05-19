@@ -1,1 +1,6 @@
-LIBRARY
+LIBRARY	"Skew"
+
+EXPORTS
+
+	ImageSkew					@1
+	ImageDestroy				@2
