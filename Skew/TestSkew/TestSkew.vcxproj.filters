@@ -15,30 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="interface.def">
-      <Filter>源文件</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="imageskew.cpp">
+    <ClCompile Include="test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="connecteddomain.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="docSeg.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="connecteddomain.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="docSeg.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\path\opencv\build\include\ImportOpenCVLib2012_DPATH.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

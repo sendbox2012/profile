@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skew", "Skew\Skew.vcxproj", "{169CC618-CB09-4C88-8BDA-37AA399316C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestSkew", "TestSkew\TestSkew.vcxproj", "{6F659CD6-203D-43E6-A383-AF823BEF600F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{169CC618-CB09-4C88-8BDA-37AA399316C6}.Debug|Win32.Build.0 = Debug|Win32
 		{169CC618-CB09-4C88-8BDA-37AA399316C6}.Release|Win32.ActiveCfg = Release|Win32
 		{169CC618-CB09-4C88-8BDA-37AA399316C6}.Release|Win32.Build.0 = Release|Win32
+		{6F659CD6-203D-43E6-A383-AF823BEF600F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F659CD6-203D-43E6-A383-AF823BEF600F}.Debug|Win32.Build.0 = Debug|Win32
+		{6F659CD6-203D-43E6-A383-AF823BEF600F}.Release|Win32.ActiveCfg = Release|Win32
+		{6F659CD6-203D-43E6-A383-AF823BEF600F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
